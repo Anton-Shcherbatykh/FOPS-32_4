@@ -16,6 +16,7 @@
 2. Приложите в файл README.md текст использованных команд в GitHub.
 
    **Установика PostgreSQL** `sudo apt install postgresql`
+   
    **Установка последней стабильной версии Zabbix с поддержкой PostgreSQL и Apache** (есть версия 7.4, но стабильный релиз только 7.2)
    `apt install zabbix-server-pgsql zabbix-frontend-php php8.2-pgsql zabbix-apache-conf zabbix-sql-scripts`
 
