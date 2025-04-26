@@ -39,7 +39,11 @@
 3. Приложите в файл README.md скриншот раздела Monitoring > Latest data для обоих хостов, где видны поступающие от агентов данные.
     ![alt text](https://github.com/Anton-Shcherbatykh/FOPS-32_4/blob/main/img/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_2_5.jpg)
 4. Приложите в файл README.md текст использованных команд в GitHub
-      Установка zabbix агента `sudo apt install zabbix-agent`
-      Делаем возможным запуск агента при запуске ОС `sudo systemctl enable zabbix-agent`
-      Запуск агента `sudo systemctl start zabbix-agent`
-      Попадаем в админку по адресу `http://192.168.0.101/zabbix`
+
+   Установка zabbix агента `sudo apt install zabbix-agent`
+
+   Делаем возможным запуск агента при запуске ОС `sudo systemctl enable zabbix-agent`
+
+   Запуск агента `sudo systemctl start zabbix-agent`
+
+   Попадаем в админку по адресу `http://192.168.0.101/zabbix`
