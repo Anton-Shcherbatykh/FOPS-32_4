@@ -2,11 +2,19 @@
 
 ### Задание 1
 
-Установите Zabbix Server с веб-интерфейсом.
+### Процесс выполнения
+1. Выполняя ДЗ, сверяйтесь с процессом отражённым в записи лекции.
+2. Установите PostgreSQL. Для установки достаточна та версия, что есть в системном репозитороии Debian 11.
+   ![alt text](https://github.com/Anton-Shcherbatykh/FOPS-32_4/blob/main/img/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_1_2.jpg)
+3. Пользуясь конфигуратором команд с официального сайта, составьте набор команд для установки последней версии Zabbix с поддержкой PostgreSQL и Apache.
+4. Выполните все необходимые команды для установки Zabbix Server и Zabbix Web Server.
 
+### Требования к результатам
 1. Прикрепите в файл README.md скриншот авторизации в админке.
+   ![alt text](https://github.com/Anton-Shcherbatykh/FOPS-32_4/blob/main/img/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_1_1.jpg)
+
 2. Приложите в файл README.md текст использованных команд в GitHub.
- ![alt text](https://github.com/Anton-Shcherbatykh/FOPS-32_4/blob/main/img/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_1_2.jpg)
+   `sudo apt install postgresql`
 
 1. `Заполните здесь этапы выполнения, если требуется ....`
 2. `Заполните здесь этапы выполнения, если требуется ....`
