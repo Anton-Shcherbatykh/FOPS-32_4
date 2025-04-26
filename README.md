@@ -14,6 +14,7 @@
    ![alt text](https://github.com/Anton-Shcherbatykh/FOPS-32_4/blob/main/img/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_1_1.jpg)
 
 2. Приложите в файл README.md текст использованных команд в GitHub.
+
    `sudo apt install postgresql`
 
 1. `Заполните здесь этапы выполнения, если требуется ....`
